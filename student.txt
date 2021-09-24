@@ -1,0 +1,3 @@
+msc20051 Anna Manolaki 6977777777 anna@gmail.com    1    Physics Chemistry
+msc20050 Alex Politis 6987656432 alex@gmail.com    1    Physics Chemistry
+msc19002 Chris Spyrou 7658755857 chris@gmail.com    3 Physics Mathematics

@@ -1,0 +1,6 @@
+A01 Physics    1 
+A02 Chemistry    1 
+B10 Mathematics    2 
+B11 Programming    2 
+C21 Informatics    3 
+C12 Philosophy    3
