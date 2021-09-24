@@ -1,2 +1,2 @@
 # UniSystemManager
-university system management java console based
+University system management Java console based
